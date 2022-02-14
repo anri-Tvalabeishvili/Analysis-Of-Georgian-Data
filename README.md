@@ -4,9 +4,9 @@
 
 # გამოყენებული მონაცემები და მათი წყაროები
 
-Vehicles-Statistic (სატრანსპორტო საშუალებები) : https://info.police.ge/page?id=121
-Suicide-Statistic (სუიციდი და სუიციდის მცდელობები) : https://info.police.ge/page?id=107
-Driving-License-Statistic (მართვის მოწმობების გაცემა და რეგისტრაცია) : 
+Vehicles-Statistic (სატრანსპორტო საშუალებები) : https://info.police.ge/page?id=121           <br>
+Suicide-Statistic (სუიციდი და სუიციდის მცდელობები) : https://info.police.ge/page?id=107    <br>
+Driving-License-Statistic (მართვის მოწმობების გაცემა და რეგისტრაცია) :                        <br>
 
 
 ## Vehicles-Statistic აღწერა:

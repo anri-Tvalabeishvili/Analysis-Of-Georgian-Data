@@ -2,7 +2,7 @@
  
 მოცემულ რეპოზიტორიაში დამუშავებულია სამი ძირითადი ტიპის მონაცემი: სატრანსპორტო საშუალებები, სუიციდი და სუიციდის მცდელობები, მართვის მოწმობების გაცემა და რეგისტრაცია.
 
-# გამოყენებული მონაცემები და მათი წყაროები
+## გამოყენებული მონაცემები და მათი წყაროები
 
 Vehicles-Statistic (სატრანსპორტო საშუალებები) : https://info.police.ge/page?id=121           <br>
 Suicide-Statistic (სუიციდი და სუიციდის მცდელობები) : https://info.police.ge/page?id=107    <br>
@@ -32,3 +32,13 @@ Driving-License-Statistic (მართვის მოწმობების 
 
 
 ## Driving-License-Statistic აღწერა:
+
+
+
+
+## ჩემს შესახებ:
+
+ Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/    <br/>
+ Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>
+ Github : https://github.com/anri-Tvalabeishvili    <br/>
+ stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>

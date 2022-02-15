@@ -1,4 +1,4 @@
-# სუიციდი და სუიციდის მცდელობა                          დუმუშავებელი მონაცმები
+# Suicide and attempted suicide         Unprocessed data
 
 Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2020.xlsx
 Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2019.xlsx
@@ -6,28 +6,28 @@ Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა
 Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2017.xlsx
 
 
-# სატრანსპორტო საშუალებები გასხვისება                       დაუმუშავებელი მონაცმები
+# Vehicles alienation                   Unprocessed data
 Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2017.xlsx
 Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2018.xlsx
 Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2019.xlsx
 Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2020.xlsx
 
 
-# სატრანსპორტო საშუალებები იმპორტი                        დაუმუშავებელი მონაცმები
+# Vehicles Import                       Unprocessed data
 Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2017.xlsx
 Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2018.xlsx
 Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2019.xlsx
 Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2020.xlsx
 
 
-# სატრანსპორტო საშუალებები რეგისტრირებული                დაუმუშავებელი მონაცმები
+# Vehicles registered                   Unprocessed data
 Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2017.xlsx
 Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2018.xlsx
 Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2019.xlsx
 Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2020.xlsx
 
 
-# სატრანსპორტო საშუალებები                                 დამუშავებული მონაცმები
+# Vehicles                              Processed data
 Vehicles-Statistic-Georgia/Analyzed Data/Alienability/საერთო_გასხვისება_2017-2020.xlsx
 Vehicles-Statistic-Georgia/Analyzed Data/Import/საერთო_იმპორტი_2017-2020.xlsx
 Vehicles-Statistic-Georgia/Analyzed Data/Registered/საერთო_რეგისტირებული_2017-2020.xlsx

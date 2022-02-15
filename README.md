@@ -1,4 +1,4 @@
-# Analysis of Georgian Data
+#💻 Analysis of Georgian Data
  
 This repository processes three main types of data: vehicles, suicide and suicide attempts, issuing and registering driving licenses.
 
@@ -43,5 +43,4 @@ The data was processed using Excel and Power BI.
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
  
- 
-<style>H1{color:Blue;}</style>
+

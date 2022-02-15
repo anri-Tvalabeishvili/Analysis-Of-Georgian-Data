@@ -5,6 +5,8 @@ This repository processes three main types of data: vehicles, suicide and suicid
 Due to the fact that the data are taken from the official website of the Ministry of Internal Affairs of Georgia, data is given in Georgian.
 Thus, the results obtained after processing and visualization are given in Georgian.
 
+Processing details are provided in the form of comments in English
+
 ## Used Data and their sources
 
 Vehicles-Statistic (means of transportation) : https://info.police.ge/page?id=121           <br>

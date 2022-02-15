@@ -9,7 +9,7 @@ Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?i
 Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
 
 
-## Description of Vehicles-Statistic :
+## 🚗 Description of Vehicles-Statistic :
 
 The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
 
@@ -20,7 +20,7 @@ Data are processed by: transport type, body type, manufacturer type, model type,
 The data was processed using Excel, Python and Power BI.
 
 
-## Description of Suicide-Statistic :
+## ⚰️ Description of Suicide-Statistic :
 
 The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
 
@@ -36,7 +36,7 @@ The data was processed using Excel and Power BI.
 
 
 
-## About me:
+## ℹ️ About me:
 
  Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/    <br/>
  Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>

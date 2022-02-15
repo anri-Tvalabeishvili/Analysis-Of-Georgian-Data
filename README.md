@@ -6,7 +6,7 @@ This repository processes three main types of data: vehicles, suicide and suicid
 
 Vehicles-Statistic (means of transportation) : https://info.police.ge/page?id=121           <br>
 Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?id=107    <br>
-Driving-License-Statistic (Issuance and registration of driving licenses) :                        <br>
+Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
 
 
 ## Description of Vehicles-Statistic :
@@ -42,3 +42,12 @@ The data was processed using Excel and Power BI.
  Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
+ 
+ 
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```

@@ -1,4 +1,4 @@
-#💻 Analysis of Georgian Data
+# 💻 Analysis of Georgian Data
  
 This repository processes three main types of data: vehicles, suicide and suicide attempts, issuing and registering driving licenses.
 

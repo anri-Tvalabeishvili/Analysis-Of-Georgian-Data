@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anri_Tvalabeishvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
 [![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
 
 # 💻 Analysis of Georgian Data

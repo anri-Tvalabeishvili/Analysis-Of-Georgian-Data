@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
+
 # 💻 Analysis of Georgian Data
  
 This repository processes three main types of data: vehicles, suicide and suicide attempts, issuing and registering driving licenses.
@@ -9,7 +12,15 @@ Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?i
 Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
 
 ## Tech/Framework used : 
-* Bullet list
+
+* Python 3.9.7
+* Excel
+* Power BI
+* NumPy library 1.21.2
+* Pandas library  1.3.4
+* Matplotlib library 3.4.3
+* Jupyterlab (Notebook) 3.2.1
+
 
 ## 🚗 Description of Vehicles-Statistic :
 

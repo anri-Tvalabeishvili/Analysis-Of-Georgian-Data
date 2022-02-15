@@ -8,6 +8,8 @@ Vehicles-Statistic (means of transportation) : https://info.police.ge/page?id=12
 Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?id=107    <br>
 Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
 
+## Tech/Framework used : 
+* Bullet list
 
 ## 🚗 Description of Vehicles-Statistic :
 

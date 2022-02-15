@@ -1,6 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Anri_Tvalabeishvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Anri_Tvalabeishvili/)](https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/)
-[![Gmail Badge](https://img.shields.io/badge/-Anri_Tvalabeishvili-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anri.tvalabeishvili.1@iliauni.edu.ge)](mailto:anri.tvalabeishvili.1@iliauni.edu.ge)
-
 # 💻 Analysis of Georgian Data
  
 This repository processes three main types of data: vehicles, suicide and suicide attempts, issuing and registering driving licenses.

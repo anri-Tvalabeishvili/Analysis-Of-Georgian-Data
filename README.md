@@ -44,10 +44,4 @@ The data was processed using Excel and Power BI.
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
  
  
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<style>H1{color:Blue;}</style>

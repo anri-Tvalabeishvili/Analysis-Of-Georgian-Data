@@ -13,13 +13,13 @@ Driving-License-Statistic (Issuance and registration of driving licenses) : http
 
 ## Tech/Framework used : 
 
-* Python 3.9.7
+* Python (3.9.7)
 * Excel
 * Power BI
-* NumPy library 1.21.2
-* Pandas library  1.3.4
-* Matplotlib library 3.4.3
-* Jupyterlab (Notebook) 3.2.1
+* NumPy library (1.21.2)
+* Pandas library  (1.3.4))
+* Matplotlib library (3.4.3)
+* Jupyterlab (Notebook) (3.2.1)
 
 
 ## 🚗 Description of Vehicles-Statistic :

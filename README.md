@@ -1,44 +1,60 @@
-# Analysis of Georgian Data
+# 💻 Analysis of Georgian Data
  
-მოცემულ რეპოზიტორიაში დამუშავებულია სამი ძირითადი ტიპის მონაცემი: სატრანსპორტო საშუალებები, სუიციდი და სუიციდის მცდელობები, მართვის მოწმობების გაცემა და რეგისტრაცია.
+This repository processes three main types of data: vehicles, suicide and suicide attempts, issuing and registering driving licenses.
 
-## გამოყენებული მონაცემები და მათი წყაროები
+Due to the fact that the data are taken from the official website of the Ministry of Internal Affairs of Georgia, data is given in Georgian.
+Thus, the results obtained after processing and visualization are given in Georgian.
 
-Vehicles-Statistic (სატრანსპორტო საშუალებები) : https://info.police.ge/page?id=121           <br>
-Suicide-Statistic (სუიციდი და სუიციდის მცდელობები) : https://info.police.ge/page?id=107    <br>
-Driving-License-Statistic (მართვის მოწმობების გაცემა და რეგისტრაცია) :                        <br>
+Processing details are provided in the form of comments in English.
 
+## Used Data and their sources
 
-## Vehicles-Statistic აღწერა:
+Vehicles-Statistic (means of transportation) : https://info.police.ge/page?id=121           <br>
+Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?id=107    <br>
+Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
 
-მონაცემები აღებულია საქართევლოს შინაგან საქმეთა სამინისტროს ოფიციალური ვებ-გვერდიდან.
+## Tech/Framework used : 
 
-მონაცემებში მოცემულია 2017-2020 წლებში, საქართველოს ტერიტორიაზე: გასვისებული, ინპორტირებული და რეგისტირებული ავტოსატრანსპორტო საშუალებები.
-
-დამუშავებულია მონაცემები: ტრანსპორტის ტიპის, ძარის, მარკის, მოდელის, ფერის, საწვავის, მფლობელის ტიპისა და რეგიონების მიხედვით.
-
-მონაცემთა დამუშავება მოხდა Excel-ით Python-ითა და Power BI-ის მეშვეობით.
-
-
-## Suicide-Statistic აღწერა:
-
-მონაცემები აღებულია საქართევლოს შინაგან საქმეთა სამინისტროს ოფიციალური ვებ-გვერდიდან.
-
-მონაცემებში მოცემულია 2017-2020 წლებში, საქართველოს ტერიტორიაზე სუიციდისა და სუიციდის მცდელობების ფაქტები.
-
-დამუშავებულია მხოლოდ საქართველოს მოქალაქეების მონაცემები: ასაკის, სქესისა და რეგიონების მიხედვით.
-
-მონაცემთა დამუშავება მოხდა Excel-ითა და Power BI-ის მეშვეობით.
+* Python (3.9.7)
+* Excel
+* Power BI
+* NumPy library (1.21.2)
+* Pandas library  (1.3.4)
+* Matplotlib library (3.4.3)
+* Jupyterlab (Notebook) (3.2.1)
 
 
-## Driving-License-Statistic აღწერა:
+## 🚗 Description of Vehicles-Statistic :
+
+The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
+
+The data refer to the vehicles that were sold, imported and registered in Georgia in 2017-2020.
+
+Data are processed by: transport type, body type, manufacturer type, model type, color type, fuel type, owner type, and regions.
+
+The data was processed using Excel, Python and Power BI.
+
+
+## ⚰️ Description of Suicide-Statistic :
+
+The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
+
+The data show the facts of suicide and suicide attempts on the territory of Georgia in 2017-2020.
+
+Only data of Georgian citizens are processed by: age, sex and regions.
+
+The data was processed using Excel and Power BI.
+
+
+## Description of Driving-License-Statistic :
 
 
 
 
-## ჩემს შესახებ:
+## ℹ️ About me:
 
- Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/    <br/>
+ Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili/    <br/>
  Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
+ 

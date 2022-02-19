@@ -48,8 +48,15 @@ The data was processed using Excel and Power BI.
 
 ## Description of Driving-License-Statistic :
 
+The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
 
+The data show the statistics of driving licenses issued in 2017-2020. 
 
+The data also show the statistics of driving licenses registered on the territory of Georgia from 2006 to 2020
+
+Only data of Georgian citizens are processed by: age, sex and regions.
+
+The data was processed using Excel and Power BI.
 
 ## ℹ️ About me:
 

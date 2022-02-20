@@ -1,41 +1,41 @@
 # Suicide and attempted suicide         Unprocessed data
 
-Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2020.xlsx
-Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2019.xlsx
-Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2018.xlsx
-Suicide-Statistic-Georgia/Data/სუიციდის_მცდელობა_2017.xlsx
+Suicide-Statistic-Georgia/Data/Suicide attempt 2020.xlsx
+Suicide-Statistic-Georgia/Data/Suicide attempt 2019.xlsx
+Suicide-Statistic-Georgia/Data/Suicide attempt 2018.xlsx
+Suicide-Statistic-Georgia/Data/Suicide attempt 2017.xlsx
 
 
 # Driving License                       Unprocessed data
 
-Driving-License-Statistic-Georgia/Data/2017-გაცემული.xlsx
-Driving-License-Statistic-Georgia/Data/2018-გაცემული.xlsx
-Driving-License-Statistic-Georgia/Data/2019-გაცემული.xlsx
-Driving-License-Statistic-Georgia/Data/2020-გაცემული.xlsx
+Driving-License-Statistic-Georgia/Data/Issuance of driving license 2017.xlsx
+Driving-License-Statistic-Georgia/Data/Issuance of driving license 2018.xlsx
+Driving-License-Statistic-Georgia/Data/Issuance of driving license 2019.xlsx
+Driving-License-Statistic-Georgia/Data/Issuance of driving license 2020.xlsx
 
 
 # Vehicles alienation                   Unprocessed data
-Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2017.xlsx
-Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2018.xlsx
-Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2019.xlsx
-Vehicles-Statistic-Georgia/Data/Alienability Data/გასხვისება_2020.xlsx
+Vehicles-Statistic-Georgia/Data/Alienability Data/Alienation 2017.xlsx
+Vehicles-Statistic-Georgia/Data/Alienability Data/Alienation 2018.xlsx
+Vehicles-Statistic-Georgia/Data/Alienability Data/Alienation 2019.xlsx
+Vehicles-Statistic-Georgia/Data/Alienability Data/Alienation 2020.xlsx
 
 
 # Vehicles Import                       Unprocessed data
-Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2017.xlsx
-Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2018.xlsx
-Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2019.xlsx
-Vehicles-Statistic-Georgia/Data/Import Data/იმპორტი_2020.xlsx
+Vehicles-Statistic-Georgia/Data/Import Data/Import 2017.xlsx
+Vehicles-Statistic-Georgia/Data/Import Data/Import 2018.xlsx
+Vehicles-Statistic-Georgia/Data/Import Data/Import 2019.xlsx
+Vehicles-Statistic-Georgia/Data/Import Data/Import 2020.xlsx
 
 
 # Vehicles registered                   Unprocessed data
-Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2017.xlsx
-Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2018.xlsx
-Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2019.xlsx
-Vehicles-Statistic-Georgia/Data/Registered Data/რეგისტირებული_2020.xlsx
+Vehicles-Statistic-Georgia/Data/Registered Data/Registered 2017.xlsx
+Vehicles-Statistic-Georgia/Data/Registered Data/Registered 2018.xlsx
+Vehicles-Statistic-Georgia/Data/Registered Data/Registered 2019.xlsx
+Vehicles-Statistic-Georgia/Data/Registered Data/Registered 2020.xlsx
 
 
 # Vehicles                              Processed data
-Vehicles-Statistic-Georgia/Analyzed Data/Alienability/საერთო_გასხვისება_2017-2020.xlsx
-Vehicles-Statistic-Georgia/Analyzed Data/Import/საერთო_იმპორტი_2017-2020.xlsx
-Vehicles-Statistic-Georgia/Analyzed Data/Registered/საერთო_რეგისტირებული_2017-2020.xlsx
+Vehicles-Statistic-Georgia/Analyzed Data/Alienability/Alienation 2017-2020 (processed).xlsx
+Vehicles-Statistic-Georgia/Analyzed Data/Import/Imported 2017-2020 (processed).xlsx
+Vehicles-Statistic-Georgia/Analyzed Data/Registered/Registered 2017-2020 (processed).xlsx

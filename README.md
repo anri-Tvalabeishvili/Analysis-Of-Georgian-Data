@@ -46,7 +46,7 @@ Only data of Georgian citizens are processed by: age, sex and regions.
 The data was processed using Excel and Power BI.
 
 
-## Description of Driving-License-Statistic :
+## 💳 Description of Driving-License-Statistic :
 
 The data are taken from the official website of the Ministry of Internal Affairs of Georgia.
 

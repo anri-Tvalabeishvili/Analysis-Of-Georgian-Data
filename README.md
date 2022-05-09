@@ -9,9 +9,10 @@ Processing details are provided in the form of comments in English.
 
 ## Used Data and their sources
 
-Vehicles-Statistic (means of transportation) : https://info.police.ge/page?id=121           <br>
+Vehicles-Statistic (Means of transportation) : https://info.police.ge/page?id=121           <br>
 Suicide-Statistic (Suicide and suicide attempts) : https://info.police.ge/page?id=107    <br>
 Driving-License-Statistic (Issuance and registration of driving licenses) : https://info.police.ge/page?id=110    <br>
+Currency-Exchange-Rate-Statistic ( GEL exchange rate) : https://nbg.gov.ge/statistics/statistics-data <br>
 
 ## Tech/Framework used : 
 
@@ -57,6 +58,19 @@ The data also show the statistics of driving licenses registered on the territor
 Only data of Georgian citizens are processed by: age, sex and regions.
 
 The data was processed using Excel and Power BI.
+
+
+## 💱 Description of Currency-Exchange-Rate-Statistic :
+
+The data are taken from the official website of the National Bank of Georgia.
+
+The data show the statistics of national currency exchange rate in 2003-2021.
+
+The processed data show the GEL exchange rate against the USD, EUR and GBP.
+
+The data was processed using Excel and Power BI.
+
+
 
 ## ℹ️ About me:
 
